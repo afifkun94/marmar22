@@ -15,8 +15,8 @@
 "LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=devname",
 
 // main ads ke backup ads 
-"MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_BACKUP_ADS" : false,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -26,9 +26,9 @@
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "ADMOB",
-"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
+"PENGATURAN_IKLAN_BANNER" : "ca-app-pub-5755936845363982/5497792541",
+"PENGATURAN_IKLAN_INTER" : "ca-app-pub-5755936845363982/7633001294",
+"PENGATURAN_IKLAN_NATIVE" : "ca-app-pub-5755936845363982/2380674611",
 
 "INTER_COUNT" : "5",
 
